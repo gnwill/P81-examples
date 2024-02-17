@@ -59,5 +59,5 @@ Contributions are welcome! If you have additional examples or improvements to ex
 
 ### License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
