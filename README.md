@@ -15,7 +15,7 @@ This repository contains examples demonstrating simple ways to Proof of Concept 
 
 ## Introduction
 
-Perimeter 81 is a comprehensive network security platform that provides secure access to cloud resources, applications, and data. This repository aims to showcase simple examples of using Perimeter 81 APIs and Terraform provider to streamline the integration process.
+Perimeter 81 is a comprehensive network security platform that provides secure access to cloud resources, applications, and data. This repository aims to showcase simple examples of using Perimeter 81 APIs and Terraform Provider to streamline the integration process.
 
 ## Getting Started
 
