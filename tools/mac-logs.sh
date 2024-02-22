@@ -1,0 +1,1 @@
+mkdir ~/Desktop/tmp;sudo cp -R /var/log/Perimeter81 ~/Library/Logs/Perimeter81.* ~/Desktop/tmp;sudo chown -R `stat -f%Su /dev/console` ~/Desktop/tmp;zip -r ~/Desktop/logs.zip ~/Desktop/tmp;rm -r ~/Desktop/tmp
